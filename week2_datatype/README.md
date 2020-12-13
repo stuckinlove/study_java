@@ -3,7 +3,7 @@
 * https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 * https://www.w3schools.com/java/java_data_types.asp
 
-####目標
+#### 目標
 >データタイプの中で参照型のデータタイプを中心に勉強する。 <br>
 >参照型のデータのメモリー使用領域について勉強する。
 
@@ -27,7 +27,7 @@
 #### 1-2. Non-primitive data types（参照型）
 「Non-primitive data types」は参照型と呼ばれている。（オブジェクトをメモリの番地で参照いるため）
 
-#### 1-3. primitive vs Non-primitive(参照型)
+#### 1-3. primitive vs Non-primitive（参照型）
 基本データ型と参照型の違いは以下である。 <br>
 
 * Primitive types are predefined (already defined) in Java. Non-primitive types are created by the programmer and is not defined by Java (except for String).
