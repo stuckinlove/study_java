@@ -93,8 +93,8 @@ if(a==c) -> false
 
 #### 3.4 null, NullPointerException
 참조 타입은 힙 영역의 객체를 참조하고 있지 않다는 의미로 null의 값을 가질 수 있다. <br>
-null값도 초기값으로 사용할 수 있기 때문에 null로 초기화된 변수는 stack에 생성된다.
-例）longにはNUllの設定ができないが、Longの場合、クラスであるためNullの初期値の設定ができる。
+null값도 초기값으로 사용할 수 있기 때문에 null로 초기화된 변수는 stack에 생성된다. <br>
+例）long(primitive type)にはNUllの設定ができないが、Longの場合、クラスであるためNullの初期値の設定ができる。
 
 nullPointerException는 null인 참조타입변수를 사용한 경우 발생한다.
 
