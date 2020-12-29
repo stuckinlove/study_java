@@ -1,8 +1,8 @@
-#jvm
+#JVM
 
 java.exe로 jvm이 시작되면 jvm은 운영체제로부터 할당받은 메모리영역을 아래의 세부내용으로 나누어 사용한다.
 
-### Runtime Data Area
+## Runtime Data Area
 - method area
 - heap area
 - stack area
