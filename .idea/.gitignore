@@ -6,6 +6,10 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-/out/
 
-*.iml
+
+out/
+.idea/
+
+week5_lamda/week5_lamda.iml
+week6_lamda/week6_lamda.iml
