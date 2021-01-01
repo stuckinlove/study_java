@@ -8,6 +8,7 @@
 /httpRequests/
 
 
-../out
-../.idea
-../*.class
+/out
+/.idea
+/*.class
+/*.iml
