@@ -1,3 +1,0 @@
-#collection
-
-hashmap concurrenthashpmap hashtable
