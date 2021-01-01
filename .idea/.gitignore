@@ -7,8 +7,5 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
-
-/out
-/.idea
-/*.class
-/*.iml
+*.iml
+*.class
