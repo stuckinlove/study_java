@@ -15,7 +15,7 @@ public class Exam {
         s.value = "String class";
 
         Generic<Integer> i = new Generic<>();
-        i.value = 123;
+        i.value = 123; // CK/AHN
         // ahn dae young update
         // Bad Code abc123
 //        Object o = "String";
