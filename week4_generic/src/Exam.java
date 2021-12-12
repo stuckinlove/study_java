@@ -17,7 +17,7 @@ public class Exam {
         Generic<Integer> i = new Generic<>();
         i.value = 123;
         
-        // Bad Code 123
+        // Bad Code abc
 //        Object o = "String";
 //        Integer inte = (Integer)o;
 //        System.out.println(inte);
