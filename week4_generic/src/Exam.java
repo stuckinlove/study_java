@@ -13,7 +13,9 @@ public class Exam {
         // どんなタイプのクラスでも作成できる。
         Generic<String> s = new Generic<String>();
         s.value = "String class";
-
+//        Generic<Integer> i = new Generic<>();
+//        Generic<Integer> i = new Generic<>();
+//        Generic<Integer> i = new Generic<>();
         Generic<Integer> i = new Generic<>();
         i.value = 123;
         // ahn dae young update
