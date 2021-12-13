@@ -19,7 +19,7 @@ public class Exam {
         // ahn dae young update
         // Bad Code abc123
 //        Object o = "String";
-//        Integer inte = (Integer)o;
+//        Integer inte = (Integer)o;d
 //        System.out.println(inte);
 //        ClassCastException発生 : Compileは問題なし、ただruntime時にエラー発生する。castingはできるかぎり使用禁止
 
