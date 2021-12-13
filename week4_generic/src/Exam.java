@@ -16,7 +16,7 @@ public class Exam {
         // kkk
         Generic<Integer> i = new Generic<>();
         i.value = 123; // CK/AHN
-        // ahn dae young update
+        // ahn dae young updatedd
         // Bad Code abc123
 //        Object o = "String";
 //        Integer inte = (Integer)o;d
