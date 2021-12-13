@@ -13,13 +13,13 @@ public class Exam {
         // どんなタイプのクラスでも作成できる。
         Generic<String> s = new Generic<String>();
         s.value = "String class";
-
+        // kkk
         Generic<Integer> i = new Generic<>();
-        i.value = 123;
-        
-        // Bad Code abc
+        i.value = 123; // CK/AHN
+        // ahn dae young update
+        // Bad Code abc123
 //        Object o = "String";
-//        Integer inte = (Integer)o;
+//        Integer inte = (Integer)o;d
 //        System.out.println(inte);
 //        ClassCastException発生 : Compileは問題なし、ただruntime時にエラー発生する。castingはできるかぎり使用禁止
 
